@@ -1,0 +1,19 @@
+@@ -1,7 +1,6 @@
+ src/*.exe
+-src/moneybitcoin
+-src/moneybitcoin
+-src/test_moneybitcoin
++src/smallchange
++src/test_smallchange
+ src/build.h
+ .*.swp
+ *.*~*
+ @@ -14,7 +13,7 @@ src/build.h
+ #compilation and Qt preprocessor part
+ *.qm
+ Makefile
+-moneybitcoin-qt
++smallchange-qt
+ #resources cpp
+ qrc_*.cpp
+ #qt creator
